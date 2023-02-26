@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @syed-ghufran-hassan
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning ICO
-- 💞️ I’m looking to collaborate on opensource projects
+- 👀 I’m interested in front End Development and blockchain development
+- 💞️ I’m looking to collaborate on opensource project
 - 📫 You can reach me at syedghufranhassan@gmail.com
 .
 <!---
