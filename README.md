@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @syed-ghufran-hassan
-- 👀 I’m interested in Blockchain Development, Rust Development and Web3 security research
+- 👋 Hi, I’m @syed-ghufran-hassan 
+- 👀 I’m interested in Blockchain Development, Rust Development, Stacks Development and Web3 security research
 - 💞️ I’m looking to collaborate on opensource project
 - 📫 You can reach me at syedghufranhassan@gmail.com
 .
